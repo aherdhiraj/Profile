@@ -1,12 +1,12 @@
-# Dr. Yogesh Deshmukh's Portfolio Website
+# Dhiraj Aher's Portfolio Website
 
 ## Introduction
 
-Welcome to Dr. Yogesh Deshmukh's Portfolio Website! This website showcases the skills, projects, study material and experiences of Dr. Yogesh Deshmukh.
+Welcome to Mr.Dhiraj Aher's Portfolio Website! This website showcases the skills, projects and experiences of Mr.Dhiraj Aher.
 
-## About Dr. Yogesh Deshmukh
+## About Mr.Dhiraj Aher
 
-Dr. Yogesh Deshmukh is a passionate and dedicated Teacher. 
+Mr.Dhiraj Aher is a passionate and dedicated student. 
 
 ## Technologies Used
 
